@@ -1,0 +1,15 @@
+.MessagesBubble {
+    width: 98%;
+    height: max-content;
+
+    background-color: cyan;
+    display: flex;
+    flex-direction: row;
+
+    margin: 1%;
+}
+
+.MessagesBuubleInside {
+    background-color: antiquewhite;
+    border-radius: 5%;
+}

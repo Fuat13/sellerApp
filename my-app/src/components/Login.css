@@ -1,0 +1,14 @@
+.Login{
+    width: 100%;
+
+    background-color: darkcyan;
+
+    transition: 1s;
+
+    display: flex;
+}
+
+.Login > input {
+    flex: 1;
+    margin: 1%;
+}
